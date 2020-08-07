@@ -1,3 +1,8 @@
+/**
+ * This project was created by a student - AS - to show the current temperature. 
+ * 
+ * Some interesting ideas for remixing
+ */
 let Temperature = 0
 basic.showString("Welcome to the Weather Forecast.")
 basic.clearScreen()
